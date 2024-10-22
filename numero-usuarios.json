@@ -1,12 +1,14 @@
 {
-    "Química": 8.0,
-    "Matemática": 10.0,
-    "Biologia": 8.0,
-    "Projeto de vida": 8.0
-    "Português": 9.5,
-    "Educa;'ao Financeira": 8.0,
-    "Física": 7.5,
-    "História":7
-    "Matematica 3": 7.5,
-
+    "Química": 70,
+    "Matemática": 100,
+    "Biologia": 91,
+    "Projeto de vida": 80,
+    "Português": 82,
+    "Educacao fisica": 100,
+    "Física": 87,
+    "Educacao financeira": 94,
+    "Física 2": 82,
+    "Física 3": 80,
+    "Matematica 2": 100,    
+    "Matematica 3": 97,
 }
